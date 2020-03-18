@@ -11,10 +11,9 @@ import java.util.TreeMap;
 
 import org.junit.Test;
 
-import com.ab.services.ABFind;
 import com.google.common.collect.MinMaxPriorityQueue;
 
-public class ABFindUnit {
+public class ABFindUnitTest {
 	
 	@Test
 	public void test_hasDuplicates() {
